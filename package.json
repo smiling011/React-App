@@ -1,6 +1,6 @@
 {
-  "name": "react-app",
-  "homepage": "https://smiling011.github.io/React-App",
+  "name": "reactapp",
+  "homepage": "https://smiling011.github.io/reactapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

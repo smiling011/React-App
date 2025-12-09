@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const Dacky = () => {
+const Reactapp = () => {
   const [scrollY, setScrollY] = useState(0);
   const [showScrollTop, setShowScrollTop] = useState(false);
 
@@ -474,4 +474,4 @@ const Dacky = () => {
   );
 };
 
-export default Dacky;
+export default Reactapp;
